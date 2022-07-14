@@ -3,11 +3,11 @@ Data science projects, mainly Deep Learning.
 
 ## Gradient Descent with Python, Numpy, and Matplotlib (no prebuilt libraries)
 
-### Data
+### Data #1
 
 ![image](https://user-images.githubusercontent.com/96901042/178917452-304c7294-c6b4-4c29-b1fa-1d358f4bde46.png)
 
-### Gradient Descent of Plot 
+### Gradient Descent of Data #1
 
 ![image](https://user-images.githubusercontent.com/96901042/178917612-d972a1a7-4934-444b-a083-0f53f5ef2a18.png)
 
@@ -16,7 +16,7 @@ Data science projects, mainly Deep Learning.
 
 ![image](https://user-images.githubusercontent.com/96901042/178917988-4011e702-acf4-43d5-a07f-d84cf47e318c.png)
 
-### Gradient Descent (3 Variations)
+### Gradient Descent (3 Variations) of Data #2
 
 ![image](https://user-images.githubusercontent.com/96901042/178918057-be1471cc-352a-4997-86b2-ce0950238981.png)
 
