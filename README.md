@@ -1,4 +1,4 @@
-# Machine-Learning-Deep-Learning-AI
+# Deep Learning
 Data science projects, mainly Deep Learning. 
 
 ## Gradient Descent with Python, Numpy, and Matplotlib (no prebuilt libraries)
